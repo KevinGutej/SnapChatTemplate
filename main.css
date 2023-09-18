@@ -19,7 +19,7 @@ body {
     max-height: 100%;
 }
 
-.login-button {
+#login-button {
     background-color: #FFFFFF;
     color: black;
     border-radius: 22px;
@@ -35,7 +35,7 @@ body {
     margin-right: 10px;
 }
 
-.signUp-button {
+#signUp-button {
     background-color: #0FAFFF;
     color: white;
     border-radius: 22px;
