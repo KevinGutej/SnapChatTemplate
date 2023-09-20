@@ -58,3 +58,75 @@ body {
     bottom: 0;
     padding: 45px;
 }
+
+.login-body {
+    background-color: white;
+}
+
+.login-title {
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    padding-top: 170px;
+}
+
+.form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
+
+.login-form {
+    text-align: center;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+
+.form-fields input {
+    display: block;
+    margin: 0 auto;
+    color: #5DC0FD;
+    font-size: 11px;
+}
+
+.form-fields label {
+    display: block;
+    margin: 0 auto;
+    color: #5DC0FD;
+    font-size: 11px;
+}
+
+.login-btn {
+    position: absolute;
+    bottom: 20px;
+    height: 45px;
+    width: 200px;
+    border-radius: 20px;
+    border-style: none;
+    font-size: 17px;
+    color: white;
+    background-color: #BABFC9;
+    font-weight: bold;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    height: 10vh;
+    
+}
+
+.login-forgotpass {
+    color: #5DC0FD;
+    font-size: 12px;
+    text-decoration: none;
+}
+
+
+
+
